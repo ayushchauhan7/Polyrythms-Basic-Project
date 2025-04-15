@@ -1,6 +1,6 @@
 # Polyrhythms Basic Project
 
-This project is a web-based interactive application that demonstrates polyrhythmic patterns through synchronized audio and visual elements. Utilizing HTML and JavaScript, it allows users to experience and understand complex rhythmic structures by visualizing and hearing multiple rhythms played simultaneously.
+This project is a web-based interactive application that demonstrates polyrhythmic patterns through synchronized audio and visual elements. Utilizing HTML and JavaScript, it allows users to experience and understand complex rhythmic structures by visualizing and hearing multiple rhythms played simultaneously.
 
 ## Features
 
